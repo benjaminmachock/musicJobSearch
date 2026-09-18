@@ -2,6 +2,8 @@
 
 Working folder for finding positions in the music industry.
 
+Repo: https://github.com/benjaminmachock/musicJobSearch
+
 - `Resume/` — resume drafts and versions, tailored for music industry roles
 - `LinkedIn/` — LinkedIn profile copy and assets
 - `Agents/` — agents/scripts for finding open positions (see `Agents/README.md`; run `python3 Agents/search_jobs.py`)
