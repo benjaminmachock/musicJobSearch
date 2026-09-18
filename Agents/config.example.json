@@ -1,0 +1,21 @@
+{
+  "adzuna": {
+    "_comment": "Optional. Free API keys at https://developer.adzuna.com/. Copy this file to config.json and fill in app_id/app_key to enable broader keyword search across Indeed, ZipRecruiter, etc. Leave app_id/app_key blank to skip Adzuna and use only the curated company boards.",
+    "app_id": "",
+    "app_key": "",
+    "country": "us",
+    "location": "",
+    "queries": [
+      "music label",
+      "A&R",
+      "music publishing",
+      "music licensing",
+      "sync licensing",
+      "artist management",
+      "tour manager",
+      "music supervisor",
+      "royalty analyst",
+      "music marketing"
+    ]
+  }
+}

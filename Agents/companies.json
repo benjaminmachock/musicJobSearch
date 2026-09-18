@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sony Music Entertainment",
+    "source": "greenhouse",
+    "token": "sonymusicentertainment"
+  },
+  {
+    "name": "Warner Music Group",
+    "source": "lever",
+    "token": "wmg"
+  },
+  {
+    "name": "Downtown Music Holdings",
+    "source": "greenhouse",
+    "token": "downtownmusic"
+  },
+  {
+    "name": "Vevo",
+    "source": "lever",
+    "token": "vevo"
+  }
+]

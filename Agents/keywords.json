@@ -1,0 +1,5 @@
+{
+  "_comment": "include: if non-empty, a job title must contain at least one of these (case-insensitive) to be kept from company boards. Leave empty to keep every role posted by the curated music companies in companies.json. exclude: titles containing any of these are always dropped.",
+  "include": [],
+  "exclude": []
+}
